@@ -57,7 +57,7 @@ st.markdown(
 # Header section
 st.title("🎓 Welcome to SkillForge India")
 st.subheader("Empower your career with the right skills!")
-st.markdown("Explore our interactive tools and resources below to enhance your skills and prepare for the future!")
+st.markdown("Explore our interactive tools and resources below to enhance your skills and prepare for the future!!")
 
 # Feature sections with descriptions and links
 st.markdown("## 🔍 Features")
