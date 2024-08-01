@@ -1,0 +1,54 @@
+{
+    "Main memory management strategies in operating systems": {
+        "correct": 0,
+        "total": 1
+    },
+    "The topic of the question is \"Base and Limit Registers in Memory Management\".": {
+        "correct": 0,
+        "total": 1
+    },
+    "Topic: Memory Management in Operating Systems - Address Binding and Implications of Logical versus Physical Address Spaces": {
+        "correct": 0,
+        "total": 1
+    },
+    "The topic of the question is \"Dynamic Loading in Memory Management.\"": {
+        "correct": 0,
+        "total": 1
+    },
+    "Topic: Shared libraries in memory management.": {
+        "correct": 0,
+        "total": 1
+    },
+    "The topic of the given question is \"Process swapping using disk in memory management.\"": {
+        "correct": 0,
+        "total": 1
+    },
+    "Memory allocation strategies": {
+        "correct": 0,
+        "total": 1
+    },
+    "Topic: Fragmentation in memory management in operating systems.": {
+        "correct": 0,
+        "total": 1
+    },
+    "Topic: Memory management strategies in operating systems - specifically, paging and segmentation.": {
+        "correct": 0,
+        "total": 1
+    },
+    "Virtual memory management.": {
+        "correct": 0,
+        "total": 1
+    },
+    "The topic of the question is \"Demand Paging and its Relationship to Memory Management.\"": {
+        "correct": 0,
+        "total": 1
+    },
+    "The topic is \"Page replacement algorithms in operating systems\".": {
+        "correct": 0,
+        "total": 1
+    },
+    "- Working set model": {
+        "correct": 0,
+        "total": 1
+    }
+}
