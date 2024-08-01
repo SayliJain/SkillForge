@@ -63,12 +63,12 @@ st.markdown("Explore our interactive tools and resources below to enhance your s
 st.markdown("## 🔍 Features")
 
 sections = [
-    ("📈", "Progress Tracker and Personalized Learning Portal", "Track your learning progress and get personalized recommendations for skill development.", "https://example.com/personalized-learning-pathways"),
+    ("📈", "Progress Tracker and Personalized Learning Portal", "Track your learning progress and get personalized recommendations for skill development.", "https://progresstrackingskillforge.streamlit.app/"),
     ("📊", "Personalized Job Demand Analyser", "Analyze job trends and receive insights into high-demand skills and career paths.", "https://jobmarketanalyser.streamlit.app/"),
     ("💼", "Interview Companion", "Prepare for your interviews with tailored questions and feedback on your answers.", "https://example.com/virtual-interview-bot"),
-    ("🤝", "Mentorship Assistance", "Find the perfect mentor or mentee to guide your career journey.", "https://example.com/mentorship"),
-    ("👨‍🏫", "Career Assistance Bot", "Get career advice and insights on job roles and industry trends.", "https://example.com/career-chatbot"),
-    ("📝", "CV Optimizer", "Optimize your resume with actionable suggestions and download the improved version.", "https://example.com/cv-optimizer"),
+    ("🤝", "Mentorship Assistance", "Find the perfect mentor or mentee to guide your career journey.", "https://mentorshipassistance.streamlit.app/"),
+    ("👨‍🏫", "Career Assistance Bot", "Get career advice and insights on job roles and industry trends.", "https://careerassist.streamlit.app/"),
+    ("📝", "CV Optimizer", "Optimize your resume with actionable suggestions and download the improved version.", "https://cvoptimiser.streamlit.app/"),
     ("📚", "Assessment Helper", "Evaluate your skills with personalized questions and receive a proficiency report.", "https://example.com/student-assessment-bot"),
     ("📖", "Glossary Generator", "Upload a PDF and generate a glossary with key terms and their definitions.", "https://glossary.streamlit.app/"),
     ("🤖", "StudyBuddy", "Get help with your studies, find resources, and stay organized with our StudyBuddy tool.", "https://ourstudybuddy.streamlit.app/"),
